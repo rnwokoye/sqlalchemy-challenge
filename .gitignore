@@ -110,6 +110,10 @@ ENV/
 env.bak/
 venv.bak/
 
+
+# my local folders
+Instgructions
+
 # Spyder project settings
 .spyderproject
 .spyproject
